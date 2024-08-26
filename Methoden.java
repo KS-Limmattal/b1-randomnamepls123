@@ -11,7 +11,7 @@ public class Methoden {
     public static int distance(double x1, double y1, double x2, double y2){
         double dx = x2 - x1;
         double dy = y2 = y1;
-        double dist = Math.sqrt(Math.pow(dx, dx) + Math.pow(dy, dy));
+        double dist = Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2));
         return (int) Math.round(dist);
     }
     
