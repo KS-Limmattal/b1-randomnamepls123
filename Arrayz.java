@@ -3,7 +3,7 @@ public class Arrayz {
     // TODO: Schreibe hier die Methoden für die Teilaufgaben.
     
     public static void main(String[] args){
-        
+        /* 
         // Test-Code für Teilaufgabe e)
         System.out.println("Aufgabe e)");
         System.out.println(hours(3));
@@ -26,5 +26,6 @@ public class Arrayz {
         };
         System.out.println(isMagicSquare(nonMagicSquare));
         System.out.println();
+        */
     }
 }

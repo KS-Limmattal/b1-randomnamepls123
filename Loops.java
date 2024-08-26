@@ -3,7 +3,7 @@ public class Loops {
     // TODO: Schreibe hier die Methoden für die Teilaufgaben.
     
     public static void main(String[] args){
-        
+        /* 
         // Test-Code für Teilaufgabe c)
         System.out.println("Aufgabe c)");
         System.out.println(hours(3));
@@ -17,5 +17,7 @@ public class Loops {
             System.out.println("Pi approximated to " + n + " digits with pi()  is " + pi(n));
         }
         System.out.println();
+        */
     }
+    
 }

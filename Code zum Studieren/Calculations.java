@@ -3,7 +3,7 @@
  */
 
 public class Calculations {
-    
+    /* 
     // Funktionen wie in der Mathematik
     public static int square(int base){
         return base * base;
@@ -43,5 +43,7 @@ public class Calculations {
         System.out.println(betrag(a)); // Funktioniert trotz falschem Argumenttyp wegen automatischem Type Casting (=Typkonversion)
         double c = betrag(square(-20));
         System.out.println(c);
+        
     }
+        */
 }
