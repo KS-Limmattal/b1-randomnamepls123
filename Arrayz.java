@@ -3,6 +3,7 @@ public class Arrayz {
     // TODO: Schreibe hier die Methoden für die Teilaufgaben.
     
     public static void main(String[] args){
+
         /* 
         // Test-Code für Teilaufgabe e)
         System.out.println("Aufgabe e)");
