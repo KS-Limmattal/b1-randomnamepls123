@@ -1,4 +1,4 @@
-//import java.math.BigDecimal;
+import java.math.BigDecimal;
 
 public class Loops {
     
@@ -18,6 +18,7 @@ public class Loops {
         }
     }
 
+
     public static double pi(int count, int digits){
         double pi = 0;
         for (int i = 0; i < count; i++){
@@ -26,8 +27,13 @@ public class Loops {
         pi *= 4;
 
         return Math.round(pi * Math.pow(10, digits)) / Math.pow(10, digits);
+    
     // TODO: BigDecimal
 
+    public static BigDecimal piButBetter(int count, int digits){
+    // I'm on it
+
+    }
 
     }
     
@@ -51,6 +57,8 @@ public class Loops {
         }
         System.out.println();
         System.out.println(pi(10001, 16)); 
+        System.out.println(pi(10001, 10));
+        System.out.println(pi(10001, 4));
 
     }
     
