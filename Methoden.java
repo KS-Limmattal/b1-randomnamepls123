@@ -1,6 +1,5 @@
 public class Methoden {
 
-    // TODO: Schreibe hier die Methoden für die Teilaufgaben.
     public static void hours(int x){
         int h = x / 3600;
         int min = x % 3600 / 60;
@@ -20,13 +19,11 @@ public class Methoden {
         System.out.println("Aufgabe a)");
         hours(3);
         hours(50001);
-        // TODO: Schreibe mehr Testcode
         hours(66666666);
         hours(123456);
 
         // Test-Code für Teilaufgabe b)
         System.out.println("Aufgabe b)");
-        // TODO: Schreibe Testcode für die Aufgabe
         System.out.println(distance(2, 5, 7, 0));
     }
     
